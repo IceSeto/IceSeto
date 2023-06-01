@@ -1,4 +1,4 @@
-- 👋 Hi, I’m @IceSeto
+- 👋 Hi, I am @IceSeto
 - 👀 I’m interested in computer games and it is a new habit to write code.I wish I can insiste it.
 - 🌱 I’m currently learning software engineering in my college.
 - 💞️ I’m looking to having a nice college life.
