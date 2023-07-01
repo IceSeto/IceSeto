@@ -1,10 +1,8 @@
 - 👋 Hi, I am @IceSeto
-- 👀 I’m interested in computer games and it is a new habit to write code.I wish I can insiste it.
-- 🌱 I’m currently learning software engineering in my college.
-- 💞️ I’m looking to having a nice college life.
+- 👀 
+- 🌱 
+- 💞️ 
 - 📫 How to reach me - a18303830322@163.com
-2023.3.9
-重拾
 
 
 <!---
